@@ -10,3 +10,6 @@ ee43c472028af16c30651099588a443dc04c7eda05c3d24c262078634ae17986  stohn-3.0.1-x8
 4c85ebeab48b466ac2e7fc7ba3db2dfb74b67005fcb8582180b1f450606641c6  stohn-3.0.1-x86_64-apple-darwin-unsigned.tar.gz
 c0ccc83dfa08710c7d69673affb1a1dd421fe7e10aca994268b4cb08c858108d  stohn-3.0.1-x86_64-apple-darwin-unsigned.zip
 166a2c84eaf13af48bab065f86642215a34efb7b4570a8869beac8dc8de3d497  stohn-3.0.1-x86_64-apple-darwin.tar.gz
+15d310f07847f600335ab87a5fef7eb4012bfbc3ddcd21183059139c811bf624  stohn-3.0.1-codesignatures-fb2c775dbf23.tar.gz
+86fc1d077402a8560dc9c93ddfaf18a7df1f37e93ccb3b68191b9d4aa98ba330  stohn-3.0.1-win64-setup.exe
+7c7220ad24880d1ef48f4083071e8164686a1c70d52711d4d3aebb8a2842f616  stohn-3.0.1-win64-unsigned.tar.gz
