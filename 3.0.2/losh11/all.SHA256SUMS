@@ -3,6 +3,7 @@
 254d88e08c566d55501718f6317d309c9555a89b8d251ce7e4d52463b7666ee5  stohn-3.0.2-arm-linux-gnueabihf-debug.tar.gz
 cea80be55b2e4be15f1837d499e694effe3f7844cd3456c01b6d61e1ef493cd1  stohn-3.0.2-arm-linux-gnueabihf.tar.gz
 10080137ca2ec7a38d21ace85f8daf8e0ebd9044a4dc7abe598510e77674310e  stohn-3.0.2-arm64-apple-darwin.zip
+5e399b32cab990c77c45d233588d3df9f8a145ac42ac83fa32ccf8eac4e05fcd  stohn-3.0.2-arm64-apple-darwin-notarised.zip
 cda8896736c20051d1d44144318de8003aa490d7131d3bc853c04811ec86ef56  stohn-3.0.2-arm64-apple-darwin-unsigned.tar.gz
 c40b8471e01ac1144081d182647fe94543375eee4da7f71cc5cbb18fb4beb719  stohn-3.0.2-arm64-apple-darwin-unsigned.zip
 f9804c154c4b5369778d91822fba339725e633d821d5152066dc8c9568fae852  stohn-3.0.2-arm64-apple-darwin.tar.gz
@@ -15,6 +16,7 @@ f9d510a8185f0e83a5445941cb5cb702c05e9373e04c4b11c0e4277a740a10c2  stohn-3.0.2-po
 666d4f9fdba10abb2fae29193e6cc868f8355b0f170e4f85af44726e8b833a87  stohn-3.0.2-riscv64-linux-gnu-debug.tar.gz
 dc5c5c1acb0163e7103e42e2319fbae196932daca67e4ecf662602d53a048e51  stohn-3.0.2-riscv64-linux-gnu.tar.gz
 74a2e530f7e7ee77f85abbdd9f5a256b55758458c90fd938710c3d5e8216d632  stohn-3.0.2-x86_64-apple-darwin.zip
+e92e3f547de57f09cb731d575565acf6381146424bf07e26cecca365ea3dcffa  stohn-3.0.2-x86_64-apple-darwin-notarised.zip
 b16214e785b9eb48e6476df7f1b421fb3de7cecb64d23123845c4e6870aedf25  stohn-3.0.2-x86_64-apple-darwin-unsigned.tar.gz
 639157a53e957aa7e50d149eaaedf84c7f1e333217d6b934e2d5c703d9d70dae  stohn-3.0.2-x86_64-apple-darwin-unsigned.zip
 a42d4be6f0e0bb680f9a973dbb1844ab89447c644dbcc9cafd3fe5254dfce385  stohn-3.0.2-x86_64-apple-darwin.tar.gz
